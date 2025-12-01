@@ -1,0 +1,12 @@
+
+// My solution to Looping a triangle problem on chapter 2
+let output="#";
+for (let counter = 0; counter < 7; counter++) { 
+  console.log(output);
+  output +="#";
+}
+
+// My solution to Fizz Buzz problem on chapter 2
+
+
+// My solution to Chessboard problem on chapter 2
