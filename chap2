@@ -1,8 +1,8 @@
-* Program Structure *
+/* Program Structure
 
 These are my solutions to the problems at the end of chapter 2 of Eloquent JS, 4th edition
 
-/*  Exercise 1 - Looping a triangle
+Exercise 1 - Looping a triangle
 Write a loop that makes seven calls to console.log to output the following triangle:
 
 #
